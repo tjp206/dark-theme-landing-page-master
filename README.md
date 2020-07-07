@@ -1,4 +1,4 @@
-Using the basis of this page to fork & create my portfolio.
+Using the basis of this project to fork & create my portfolio.
 
 
 # Frontend Mentor - Fylo landing page with dark theme and features grid
